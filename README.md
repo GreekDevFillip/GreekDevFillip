@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Filippos 👋
 
-<!--
-**GreekDevFillip/GreekDevFillip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical Engineering student who writes code.
+I work hands-on repairing ship engines at a machine shop,
+and I build software tools that bridge the gap between
+mechanical systems and programming.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Engineering:** CAD (SolidWorks / AutoCAD) · Ship engine repair & maintenance
+
+**Programming:** C++ · Python
+
+## Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Centrifugal Pump Simulator](https://github.com/GreekDevFillip/centrifugal-pump-simulator) | Calculates hydraulic & shaft power based on real pump physics | C++ |
+| [Student Management](https://github.com/GreekDevFillip/student-management) | Console-based student record system | Python |
+
+## Currently
+
+- 📚 1st year Mechanical Engineering
+- 🔧 Working at a machine shop (ship engine repairs)
+- 💻 Building projects that connect mechanical systems with software
